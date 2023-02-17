@@ -1,3 +1,6 @@
+youtube video link --> https://www.youtube.com/watch?v=3I3wuJ-4D5Y
+
+
 To send static contact form data via email in an Angular application, you can use a combination of Angular's built-in email functionality and a backend server to handle the email sending.
 
 Here are the general steps you can follow:
